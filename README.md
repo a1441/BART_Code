@@ -45,4 +45,18 @@ These datasets are crucial for replicating the study's findings and further expe
 We welcome contributions to this project! If you have suggestions for improvements or encounter any issues, please feel free to submit an issue or pull request on GitHub.
 
 ## License
-This project is licensed under the [specify the license], allowing for widespread use and modification with appropriate credit to the original authors.
+This project, including the code and datasets, is protected under a custom license that mandates specific conditions for its use, ensuring the original authors receive proper acknowledgment. Anyone wishing to utilize this project for any purpose is required to obtain direct permission from the creators and must cite and credit the following author and institution:
+
+Author: Boyan Markov
+Institution: University of National and World Economy (UNWE)
+Conditions for Use:
+
+For any form of utilization beyond personal review, including but not limited to commercial use, academic research, or educational purposes, direct permission must be sought from Boyan Markov.
+Upon receiving permission, appropriate credit must be given in any publications or disseminations of the work derived from or incorporating elements of this project, with a formal citation to Boyan Markov and UNWE as specified by the author.
+This license allows for the widespread use and modification of the project materials, subject to the aforementioned conditions, to foster academic collaboration, innovation, and respectful utilization of the original work.
+How to Obtain Permission:
+
+Please contact b.r.markov[at]gmail.com for permissions, licensing inquiries, or further information regarding the use of the project materials.
+By using or engaging with the project in any capacity, you acknowledge and agree to these terms, ensuring the respectful and ethical use of the provided materials.
+
+
